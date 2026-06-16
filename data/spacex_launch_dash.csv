@@ -1,0 +1,11 @@
+FlightNumber,Date,BoosterVersion,PayloadMass,Orbit,LaunchSite,Outcome,Flights,GridFins,Reused,Legs,LandingPad,Block,ReusedCount,Serial,Longitude,Latitude,Class
+1,2010-06-04,F9 v1.0 B0003,6123.547647,LEO,CCAFS LC-40,None None,1,False,False,False,None,1.0,0,B0003,-80.5772,28.5623,0
+2,2012-05-22,F9 v1.0 B0005,525,LEO,CCAFS LC-40,None None,1,False,False,False,None,1.0,0,B0005,-80.5772,28.5623,0
+3,2013-03-01,F9 v1.0 B0007,677,ISS,CCAFS LC-40,None None,1,False,False,False,None,1.0,0,B0007,-80.5772,28.5623,0
+4,2013-09-29,F9 v1.1 B1003,500,PO,VAFB SLC-4E,False Ocean,1,False,False,False,None,1.0,0,B1003,-120.6105,34.6321,0
+5,2013-12-03,F9 v1.1 B1004,3170,GTO,CCAFS LC-40,None None,1,False,False,False,None,1.0,0,B1004,-80.5772,28.5623,0
+6,2014-01-06,F9 v1.1 B1005,3325,GTO,CCAFS LC-40,None None,1,False,False,False,None,1.0,0,B1005,-80.5772,28.5623,0
+7,2014-04-18,F9 v1.1 B1006,2296,ISS,CCAFS LC-40,False ASDS,1,False,False,True,None,1.0,0,B1006,-80.5772,28.5623,0
+8,2014-07-14,F9 v1.1 B1007,1316,LEO,CCAFS LC-40,True ASDS,1,False,False,True,None,1.0,0,B1007,-80.5772,28.5623,1
+9,2014-08-05,F9 v1.1 B1008,4535,GTO,CCAFS LC-40,None None,1,False,False,False,None,1.0,0,B1008,-80.5772,28.5623,0
+10,2014-09-07,F9 v1.1 B1010,4428,GTO,CCAFS LC-40,None None,1,False,False,False,None,1.0,0,B1010,-80.5772,28.5623,0
